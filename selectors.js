@@ -29,3 +29,6 @@ var liTag = document.querySelectorAll ("#highlight");
 
 //selects all matching elements
 var liTags = document.querySelectorAll (".bolded");
+
+
+var lis = document.querySelectorAll ("lis");
