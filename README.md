@@ -4,3 +4,4 @@
 
 ## Class Selector is used to select elements of the same class
 
+## Tag selector is used to choose elements with matching tags.
