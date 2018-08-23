@@ -5,3 +5,5 @@
 ## Class Selector is used to select elements of the same class
 
 ## Tag selector is used to choose elements with matching tags.
+
+## query selector only selects the first matching element. And it uses the css-style selector
