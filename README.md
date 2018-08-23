@@ -7,3 +7,5 @@
 ## Tag selector is used to choose elements with matching tags.
 
 ## query selector only selects the first matching element. And it uses the css-style selector
+
+## query selector all selects all matching elements. It also uses the css-style selector.
