@@ -16,5 +16,5 @@ var h1 = document.querySelector("h1"); //selects the first h1
 //selects using css-style
 var liTag = document.querySelector("#highlight");
 
-
+//selects first li with the class "bolded".
 var liTags = document.querySelector(".bolded");
