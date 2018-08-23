@@ -18,3 +18,5 @@ var liTag = document.querySelector("#highlight");
 
 //selects first li with the class "bolded".
 var liTags = document.querySelector(".bolded");
+
+//QUERY SELECTOR ALL (selects all matching elements, and also uses the css-style selector)
