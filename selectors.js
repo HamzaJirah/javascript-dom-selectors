@@ -23,3 +23,6 @@ var liTags = document.querySelector(".bolded");
 
 //selects all h1 tags
 var h1 = document.querySelectorAll ("h1");
+
+
+var liTag = document.querySelectorAll ("#highlight");
