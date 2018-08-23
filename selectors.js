@@ -24,5 +24,5 @@ var liTags = document.querySelector(".bolded");
 //selects all h1 tags
 var h1 = document.querySelectorAll ("h1");
 
-
+//selects element with the ID "highlight"
 var liTag = document.querySelectorAll ("#highlight");
