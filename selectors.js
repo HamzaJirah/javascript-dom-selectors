@@ -7,5 +7,5 @@ var tags = document.getElementsByClassName("bolded");
 //Selecting elements by Tag Name (all elements with tag "li" are selected)
 var liTags = document.getElementsByTagName("li");
 
-
+//NOTE: We could also select the body, head or html elements by their tag names
 var body = document.getElementsByTagName("body")[0]
