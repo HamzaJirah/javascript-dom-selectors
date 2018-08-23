@@ -20,3 +20,6 @@ var liTag = document.querySelector("#highlight");
 var liTags = document.querySelector(".bolded");
 
 //QUERY SELECTOR ALL (selects all matching elements, and also uses the css-style selector)
+
+
+var h1 = document.querySelectorAll ("h1");
