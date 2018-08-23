@@ -21,5 +21,5 @@ var liTags = document.querySelector(".bolded");
 
 //QUERY SELECTOR ALL (selects all matching elements, and also uses the css-style selector)
 
-
+//selects all h1 tags
 var h1 = document.querySelectorAll ("h1");
