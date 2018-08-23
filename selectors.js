@@ -13,5 +13,5 @@ var body = document.getElementsByTagName("body")[0]
 //Query selector(selects first match of an elements. And it uses uses css-style selector)
 var h1 = document.querySelector("h1"); //selects the first h1
 
-
+//selects using css-style
 var liTag = document.querySelector("#highlight");
